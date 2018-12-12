@@ -387,7 +387,7 @@ function template_body_below()
 		<ul>
 			<li class="floatright"><a href="', $scripturl, '?action=help">', $txt['help'], '</a> ', (!empty($modSettings['requireAgreement'])) ? '| <a href="' . $scripturl . '?action=help;sa=rules">' . $txt['terms_and_rules'] . '</a>' : '', ' | <a href="#top_section">', $txt['go_up'], ' &#9650;</a></li>
 			<li class="copyright">', theme_copyright(), '</li>
-			<li class="mycopyright">', $txt['smart_rights'], ' <a href="https://www.smflite.com/">', $txt['smart_link'], '</a></li>
+			<li class="mycopyright">', $txt['smart_rights'], ' <a href="https://www.hostpas.com">', $txt['smart_link'], '</a></li>
 		</ul>';
 
 	// Show the load time?

@@ -9,9 +9,9 @@
 <!-- Theme name, used purely for aesthetics. -->
 <name>Smush</name>
 <!-- Author: your email address or contact information. The name attribute is optional. -->
-<author name="jp">themes@smflite.com</author>
+<author name="jp">themes@hostpas.com</author>
 <!-- Website... where to get updates and more information. -->
-<website>https://www.smflite.com/</website>
+<website>https://www.hostpas.com/</website>
 <!-- Template layers to use, defaults to "html,body". -->
 <layers>html,body</layers>
 <!-- Templates to load on startup. Default is "index". -->
