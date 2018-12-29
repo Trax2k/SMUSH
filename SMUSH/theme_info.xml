@@ -9,9 +9,9 @@
 <!-- Theme name, used purely for aesthetics. -->
 <name>Smush</name>
 <!-- Author: your email address or contact information. The name attribute is optional. -->
-<author name="jp">themes@hostpas.com</author>
+<author name="jp">jplant01@gmail.com</author>
 <!-- Website... where to get updates and more information. -->
-<website>https://www.hostpas.com/</website>
+<website>https://www.simpleforums.net/</website>
 <!-- Template layers to use, defaults to "html,body". -->
 <layers>html,body</layers>
 <!-- Templates to load on startup. Default is "index". -->
